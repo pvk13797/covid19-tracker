@@ -2,7 +2,7 @@
 
 :link: [Live Demo](https://covid19updatewebsite.netlify.app)
 
-
+In this project, we used API to fetch all the data from respective datahub. So we can see live Corona virus update.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
