@@ -22,6 +22,7 @@ body {
     width: 100%;
     /* background-color: whitesmoke; */
     color: black;
+    font-family: "Lucida Console", Courier, monospace;
 }
 
 @media (max-width: 770px){
